@@ -1,15 +1,4 @@
 /* CSS Document */
-
-<style type="text/css">
-<!--
-#Layer1 {
-	position:absolute;
-	width:244px;
-	height:286px;
-	z-index:1;
-	left: 890px;
-	top: 54px;
-}
 body {
 	background-color: #24304a;
 	margin-left: 0px;
@@ -17,30 +6,3 @@ body {
 	margin-right: 0px;
 	margin-bottom: 0px;
 }
-#Layer2 {
-	position:absolute;
-	width:200px;
-	height:115px;
-	z-index:2;
-	left: 470px;
-	top: 54px;
-}
-#Layer3 {
-	position:absolute;
-	width:200px;
-	height:508px;
-	z-index:3;
-	left: 270px;
-	top: 54px;
-	background-image: url(connectorstrip.gif);
-}
-#Layer4 {
-	position:absolute;
-	width:200px;
-	height:115px;
-	z-index:4;
-	left: 890px;
-	top: 54px;
-}
--->
-</style>
